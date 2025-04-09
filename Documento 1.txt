@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-TEXTO DO DOC 1
-=======
-dragon
->>>>>>> renata
+
